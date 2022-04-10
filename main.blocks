@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="]hBfxtW`3K[DE%KYU0iJ" x="20" y="20"><statement name="HANDLER"><block type="input_compass_calibrate" id="73Z2H/ikwQtkoDom3r=d"/></statement></block><block type="device_forever" id="/s/?[B?UY-(Cn1Kk5/`}" x="225" y="20"/></xml>
